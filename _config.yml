@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4348778235806453
+  lightness: 0.07856248726751403
+  rhythmicContrast: 0.1904734915351548
+  saturation: 0.3728842062819797
+cta: {}
+layout_spectrum: 0.11034206831943882
+name: Turkka
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.3835459524586402
